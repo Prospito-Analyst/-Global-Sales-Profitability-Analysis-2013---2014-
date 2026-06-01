@@ -1,4 +1,4 @@
-![Dashboard Preview](Dashboard Preview 1.png)
+![Dashboard Preview](Dashboard_Preview_1.png)
 # -Global-Sales-Profitability-Analysis-2013---2014-
 An End to End analysis of a Sales data using only Excel.
 # 📄 Introduction
